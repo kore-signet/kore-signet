@@ -4,7 +4,7 @@
 ### hi i'm allie signet m.
 bored enby, disaster lesbian, mediocre guitar player.
 
-i mostly hack together things in python quickly, specially blaseball related ones.
-i technically know JS but will never admit it.
+compression witch, 🦀 programmer
 
+<sup> [current avatar source](https://picrew.me/image_maker/947708) </sup>
 
