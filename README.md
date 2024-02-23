@@ -1,10 +1,6 @@
-[![they/them pronouns](https://img.shields.io/badge/pronouns-they%2Fthem-blueviolet)](https://pronoun.is/they/them)
-[![she/her pronouns](https://img.shields.io/badge/pronouns-she%2Fher-ff69b4)](https://pronoun.is/she/her)
+[![pronouns - it/its](https://img.shields.io/badge/pronouns-it%2Fits-blueviolet?style=for-the-badge)](https://en.pronouns.page/are/it/its)
 [![trans rights](https://img.shields.io/badge/trans-rights-brightgreen)]()
-### hi i'm emily signet
-bored enby, disaster lesbian, mediocre guitar player.
 
-compression witch, 🦀 programmer
-
-<sup> [current avatar source](https://picrew.me/image_maker/947708) </sup>
-
+### hi i'm kore signet
+maker of weird little search engines and compression systems. 🦀 programmer
+reach out to me at `kore at cat-girl.gay` 
