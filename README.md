@@ -1,5 +1,5 @@
 [![pronouns - it/its](https://img.shields.io/badge/pronouns-it%2Fits-blueviolet?style=for-the-badge)](https://en.pronouns.page/are/it/its)
-[![trans rights](https://img.shields.io/badge/trans-rights-brightgreen)]()
+[![trans - rights](https://img.shields.io/badge/trans-rights-pink?style=for-the-badge)]()
 
 ### hi i'm kore signet
 maker of weird little search engines and compression systems. 🦀 programmer
